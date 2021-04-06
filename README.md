@@ -2,7 +2,9 @@ Hi there! 👋
 
 I’m Serhii Teroshyn and i really appriciate your interest to my page 😉
 
-It doesn't matter why you came here just feel free to check any public content and ask any questions you have 👌 Enjoy your time 😎
+It doesn't matter why you came here just feel free to check any public content and ask any questions you have 👌 
+
+Enjoy your time here 😎
 
 
 ## A little about myself

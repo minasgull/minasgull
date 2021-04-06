@@ -26,6 +26,7 @@ Today i have competention in fields:
 
 ## 👀 I’m interested in:
 - refactoring of legacy codebase using modern stack to fresh up applications and create new business possibilities
+- creating 
 
 ## 🌱 I’m currently working on:
 - learning modern stack. Now and forever 🤘
@@ -39,5 +40,5 @@ Today i have competention in fields:
 
 ## My contacts
 Please, feel free to contanct me via:
-- Telegram: minasgull
+- Telegram: https://t.me/minasgull
 - Email: sergeyteryoshin@gmail.com

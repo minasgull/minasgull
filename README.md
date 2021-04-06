@@ -23,11 +23,10 @@ Today i have competention in fields:
 - saving teammates nerves via writing well documented and well tested code with high performance
 - saving operational costs via optimizing dev processes in project
 - saving clients via fast troubleshooting
+- creating new business posibilities via refactoring of legacy codebase using modern stack
 
 ## 💞️ I’m interested in:
-- refactoring of legacy codebase using modern stack to fresh up applications and create new business possibilities
-- colaboration with highly qualified computer geeks to make the world much more interesting
-- colaboration with open-minded people with innovative ideas that may make our world better and more interesting place 🌍 
+- collaboration with highly qualified computer geeks and open-minded people with innovative ideas who want to make the world much better and more interesting place 🌍
 
 ## 🌱 I’m currently working on:
 - learning modern stack. Now and forever 🤘

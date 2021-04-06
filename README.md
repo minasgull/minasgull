@@ -6,7 +6,6 @@ It doesn't matter why you came here just feel free to check any public content a
 
 Enjoy your time here 😎
 
-
 ## 🧑🏻 A little about myself
 
 I'm a Senior Software Engineer with more than 6 year of experience. Mostly working with Java, but also interested in Android and DevOps.
@@ -26,17 +25,19 @@ Today i have competention in fields:
 - saving clients via fast troubleshooting
 
 ## 👀 I’m interested in:
-- collaboration with highly qualified computer geeks to make the world much more interesting
 - refactoring of legacy codebase using modern stack to fresh up applications and create new business possibilities
 
 ## 🌱 I’m currently working on:
 - learning modern stack. Now and forever 🤘
-- matering my English level (Upper-Intermidiate/Advanced) 👌
-- 
+- mastering my English level (Upper-Intermidiate/Advanced) 👌
+- freshing my way of thinking 🦾
+- several private projects (inclusive charity) 😎
 
-💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate with:
+- highly qualified computer geeks to make the world much more interesting
+- open-minded people with innovative ideas that may make our world better or interesting place 🌍 
 
-## Contacts
+## My contacts
 Please, feel free to contanct me via:
 - Telegram: minasgull
 - Email: sergeyteryoshin@gmail.com

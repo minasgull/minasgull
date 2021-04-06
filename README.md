@@ -16,7 +16,7 @@ Today i have competention in fields:
 - business analyse
 - management
 
-## 💪 My strenghts is:
+## 💪 My superpowers are:
 - saving time via creating maintainable, flexible and simply extensible architecture
 - saving teammates nerves via writing well documented and well tested code with high performance
 - saving operational costs via optimizing dev processes in project

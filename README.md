@@ -1,9 +1,7 @@
-Hi there! 👋 
+Hi there! 👋
 
-I’m Serhii and i really appriciate your interest to my page 😉
-
-It doesn't matter why you came here just feel free to check any public content and ask any questions you have 👌 
-
+I’m Serhii and i really appriciate your interest to my page 😉<br>
+It doesn't matter why you came here just feel free to check any public content and ask any questions you have 👌 <br>
 Enjoy your time here 😎
 
 ## 🧑🏻 A little about myself

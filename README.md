@@ -24,18 +24,16 @@ Today i have competention in fields:
 - saving operational costs via optimizing dev processes in project
 - saving clients via fast troubleshooting
 
-## 👀 I’m interested in:
+## 💞️ I’m interested in:
 - refactoring of legacy codebase using modern stack to fresh up applications and create new business possibilities
+- colaboration with highly qualified computer geeks to make the world much more interesting
+- colaboration with open-minded people with innovative ideas that may make our world better or interesting place 🌍 
 
 ## 🌱 I’m currently working on:
 - learning modern stack. Now and forever 🤘
 - mastering my English level (Upper-Intermidiate/Advanced) 👌
 - freshing my way of thinking 🦾
 - several private projects (inclusive charity) 😎
-
-💞️ I’m looking to collaborate with:
-- highly qualified computer geeks to make the world much more interesting
-- open-minded people with innovative ideas that may make our world better or interesting place 🌍 
 
 ## My contacts
 Please, feel free to contanct me via:

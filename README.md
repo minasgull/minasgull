@@ -27,7 +27,7 @@ Today i have competention in fields:
 ## 💞️ I’m interested in:
 - refactoring of legacy codebase using modern stack to fresh up applications and create new business possibilities
 - colaboration with highly qualified computer geeks to make the world much more interesting
-- colaboration with open-minded people with innovative ideas that may make our world better or interesting place 🌍 
+- colaboration with open-minded people with innovative ideas that may make our world better and more interesting place 🌍 
 
 ## 🌱 I’m currently working on:
 - learning modern stack. Now and forever 🤘

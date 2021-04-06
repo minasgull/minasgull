@@ -26,7 +26,6 @@ Today i have competention in fields:
 
 ## 👀 I’m interested in:
 - refactoring of legacy codebase using modern stack to fresh up applications and create new business possibilities
-- creating 
 
 ## 🌱 I’m currently working on:
 - learning modern stack. Now and forever 🤘

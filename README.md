@@ -36,9 +36,9 @@ Today i have competention in fields:
 
 ## 💻 The stack i'm working with
 - Java (8,11), Groovy
-- Spring (Core, MVC, JPA, StateMachine, Integration, Boot, Cache)
+- Spring (Core, MVC, JPA, StateMachine, Integration, Boot, Cache, Test, Security)
 - JUnit (> 85%), Mockito, Cucumber
-- Hazelcast
+- Hazelcast, Redis
 - Oracle, PostgreSQL, MySql, MS SQL
 - Flyway, Liquibase
 - Maven, Gradle

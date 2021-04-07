@@ -28,7 +28,7 @@ Today i have competention in fields:
 - collaboration with highly qualified computer geeks and open-minded people with innovative ideas who want to make the world much better and more interesting place 🌍
 
 ## 🌱 I’m currently working on
-- learning modern stack. Now and forever 🤘
+- learning modern stack and approaches. Now and forever 🤘
 - mastering my English level (Upper-Intermidiate/Advanced) 👌
 - freshing my way of thinking 🦾
 - several private projects (inclusive charity) 😎

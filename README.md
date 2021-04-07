@@ -34,7 +34,7 @@ Today i have competention in fields:
 - studying Apache Kafka, AWS
 
 ## 💻 The stack i'm working with
-- Java 8,11, Groovy
+- Java (8,11), Groovy
 - Spring (Core, MVC, JPA, StateMachine, Integration)
 - JUnit (> 85%), Mockito, Cucumber
 - Oracle, PostgreSQL, MySql, MS SQL

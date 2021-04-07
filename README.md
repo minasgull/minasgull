@@ -5,7 +5,6 @@ It doesn't matter why you came here just feel free to check any public content a
 Enjoy your time here 😎
 
 ## 🧑🏻 A little about myself
-
 I'm a Senior Software Engineer with more than 6 year of experience. Mostly working with Java, but also interested in Android and DevOps.
 Have experience leading people but not going to do it for any company but my own 👀. 
 
@@ -16,23 +15,37 @@ Today i have competention in fields:
 - business analyse
 - management
 
-## 💪 My superpowers are:
+## 💪 My superpowers are
 - saving time via creating maintainable, flexible and simply extensible architecture
 - saving teammates nerves via writing well documented and well tested code with high performance
 - saving operational costs via optimizing dev processes in project
 - saving clients via fast troubleshooting
+- creating creative atmosphere via automatisation of all the routine
 - creating new business posibilities via refactoring of legacy codebase using modern stack
 
-## 💞️ I’m interested in:
+## 💞️ I’m interested in
 - collaboration with highly qualified computer geeks and open-minded people with innovative ideas who want to make the world much better and more interesting place 🌍
 
-## 🌱 I’m currently working on:
+## 🌱 I’m currently working on
 - learning modern stack. Now and forever 🤘
 - mastering my English level (Upper-Intermidiate/Advanced) 👌
 - freshing my way of thinking 🦾
 - several private projects (inclusive charity) 😎
+- studying Apache Kafka, AWS
 
-## My contacts
+## 💻 The stack i'm working with
+- Java 8,11, Groovy
+- Spring (Core, MVC, JPA, StateMachine, Integration)
+- JUnit (> 85%), Mockito, Cucumber
+- Oracle, PostgreSQL, MySql, MS SQL
+- Hazelcast
+- Docker
+- Microservices, REST, DataMesh, Design Patterns
+- Jenkins, Atlassian Stack
+- IntelliJ Idea, Macintosh
+- SCRUM, Waterfall
+
+## 💬 My contacts
 Please, feel free to contanct me via:
 - Telegram: https://t.me/minasgull
 - Email: sergeyteryoshin@gmail.com

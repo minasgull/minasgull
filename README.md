@@ -42,11 +42,9 @@ Today i have competention in fields:
 - Oracle, PostgreSQL, MySql, MS SQL
 - Flyway, Liquibase
 - Maven, Gradle
- 
 - Docker
 - Jenkins, Atlassian Stack
 - IntelliJ Idea, Mac Pro
-
 - Microservices, REST, DataMesh, Design Patterns
 - SCRUM, Waterfall
 

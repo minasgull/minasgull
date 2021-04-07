@@ -22,6 +22,7 @@ Today i have competention in fields:
 - saving clients via fast troubleshooting
 - creating creative atmosphere via automatisation of all the routine
 - creating new business posibilities via refactoring of legacy codebase using modern stack
+- evolving your business via generation of new ideas
 
 ## 💞️ I’m interested in
 - collaboration with highly qualified computer geeks and open-minded people with innovative ideas who want to make the world much better and more interesting place 🌍

@@ -36,11 +36,12 @@ Today i have competention in fields:
 
 ## 💻 The stack i'm working with
 - Java (8,11), Groovy
-- Spring (Core, MVC, JPA, StateMachine, Integration)
+- Spring (Core, MVC, JPA, StateMachine, Integration, Boot, Cache)
 - JUnit (> 85%), Mockito, Cucumber
 - Oracle, PostgreSQL, MySql, MS SQL
 - Hazelcast
 - Docker
+- Maven, Gradle
 - Microservices, REST, DataMesh, Design Patterns
 - Jenkins, Atlassian Stack
 - IntelliJ Idea, Macintosh

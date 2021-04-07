@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I’m Serhii and i really appriciate your interest to my page 😉<br>
+I’m Serhii and i really appriciate your interest in my page 😉<br>
 It doesn't matter why you came here just feel free to check any public content and ask any questions you have 👌 <br>
 Enjoy your time here 😎
 

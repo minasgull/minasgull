@@ -50,6 +50,5 @@ Today i have competention in fields:
 
 ## 💬 My contacts
 Please, feel free to contanct me via:
-- Telegram: https://t.me/minasgull
 - Email: sergeyteryoshin@gmail.com
 - Linkedin: https://www.linkedin.com/in/serhii-teroshyn-72940477/

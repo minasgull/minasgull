@@ -11,8 +11,8 @@ Have experience leading people but not going to do it for any company but my own
 Today i have competention in fields:
 - software engineering
 - testing
-- financial institution
 - game dev
+- financial institution
 - business analyst
 - management
 
@@ -20,10 +20,10 @@ Today i have competention in fields:
 - saving time via creating maintainable, flexible and simply extensible architecture
 - saving teammates nerves via writing well documented and well tested code with high performance
 - saving operational costs via optimizing dev processes in project
-- saving clients via fast troubleshooting
 - creating creative atmosphere via automatisation of all the routine
 - creating new business posibilities via refactoring of legacy codebase using modern stack
 - evolving your business via generation of new ideas
+- saving clients via fast troubleshooting
 
 ## 💞️ I’m interested in
 - collaboration with highly qualified computer geeks and open-minded people with innovative ideas who want to make the world much better and more interesting place 🌍

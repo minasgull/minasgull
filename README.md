@@ -9,10 +9,11 @@ I'm a Senior Software Engineer with more than 6 year of experience. Mostly worki
 Have experience leading people but not going to do it for any company but my own 👀. 
 
 Today i have competention in fields:
+- software engineering
+- testing
 - financial institution
 - game dev
-- testing
-- business analyse
+- business analyst
 - management
 
 ## 💪 My superpowers are

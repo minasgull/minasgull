@@ -50,6 +50,11 @@ Today i have competention in fields:
 - IntelliJ Idea, Mac Pro
 - SCRUM, Waterfall
 
+A bit with
+- Android (26)
+- RxJava 3
+- Material (Android)
+
 ## 💬 My contacts
 Please, feel free to contanct me via:
 - Email: sergeyteryoshin@gmail.com

@@ -6,7 +6,6 @@ Enjoy your time here 😎
 
 ## 🧑🏻 A little about myself
 I'm a Senior Software Engineer with more than 6 year of experience. Mostly working with Java, but also interested in Android and DevOps.
-Have experience leading people but not going to do it for any company but my own 👀. 
 
 Today i have competention in fields:
 - software engineering

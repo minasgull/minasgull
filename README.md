@@ -30,9 +30,8 @@ Today i have competention in fields:
 ## 🌱 I’m currently working on
 - learning modern stack and approaches. Now and forever 🤘
 - mastering my English level (Upper-Intermidiate/Advanced) 👌
-- freshing my way of thinking 🦾
 - several private projects (inclusive charity) 😎
-- studying Apache Kafka, AWS
+- studying Apache Kafka
 
 ## 💻 The stack i'm working with
 - Java (8,11), Groovy
@@ -41,6 +40,7 @@ Today i have competention in fields:
 - State Machine (Spring, Squirrel-Foundation)
 - Microservices, REST, DataMesh, Design Patterns
 - Hazelcast, Redis
+- AWS, GCP
 - Oracle, PostgreSQL, MySql, MS SQL
 - Flyway, Liquibase
 - Maven, Gradle
